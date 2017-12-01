@@ -94,5 +94,4 @@ public class BasicStack<X> {
     return stackPointer;
   }
 
-
 }
